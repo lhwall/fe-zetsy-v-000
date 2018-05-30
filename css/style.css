@@ -37,6 +37,7 @@ p {
 
 .wrapper {
 	display: inline-block;
+	margin: 0 auto;
 	}
 
 h2 {
